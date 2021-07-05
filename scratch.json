@@ -1,1 +1,1 @@
-[{"codeType": {"repeat": [{"codeType": "forward"}, {"codeType": "left"}, {"codeType": "forward"}, {"codeType": "right"}, {"codeType": "End"}]}}]
+[{"codeType": "repeatUntil", "repeat": [{"codeType": "forward"}, {"codeType": "left"}, {"codeType": "forward"}, {"codeType": "right"}, {"codeType": "End"}]}]
