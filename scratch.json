@@ -1,1 +1,1 @@
-{"define": {"set": ["A", "B"], "replace": ["A", "B"]}}
+{"define": {"set": ["boat", "j"], "replace": ["j+1", "boat"]}}
