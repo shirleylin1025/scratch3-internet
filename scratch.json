@@ -1,1 +1,1 @@
-{"define": {"set": ["boat", "j"], "replace": ["j+1", "boat"]}}
+{"arrayAdd": ["10", "7", "3", "1", "6"]}
