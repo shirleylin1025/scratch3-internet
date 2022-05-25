@@ -8,7 +8,7 @@ scratch3-internet project also come up a easy-to-use extention setup/deploy stru
 ## Getting start
 
 ```sh
-git clone [https://github.com/gasolin/scratch3-internet.git](https://github.com/shirleylin1025/scratch3-internet) --depth 1
+git clone 
 npm run setup
 npm run start
 ```
